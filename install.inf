@@ -1,0 +1,11 @@
+[info]
+title=XML Tidy
+desc=Formats/indents XML code (using xml.dom library)
+type=cudatext-plugin
+subdir=cuda_xml_tidy
+
+[item1]
+section=commands
+caption=XML Tidy
+method=run
+lexers=XML
